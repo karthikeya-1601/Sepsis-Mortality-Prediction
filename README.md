@@ -13,7 +13,7 @@ A web-based machine learning application for predicting the mortality risk of se
 
 This Streamlit web application predicts the mortality risk of patients with sepsis using a robust **stacking ensemble classifier** built with machine learning. The goal is to aid clinicians and researchers in identifying high-risk patients quickly and accurately.
 
-🔗 **Live Demo:** [https://sepsis-mortality-prediction.streamlit.app](https://sepsis-mortality-prediction.streamlit.app)
+🔗 **Live Demo:** [https://sepsis-mortality-prediction.streamlit.app](https://sepsis-mortality-risk-prediction.streamlit.app/))
 
 ## 🚀 Features
 - Upload CSV files or manually input patient data
