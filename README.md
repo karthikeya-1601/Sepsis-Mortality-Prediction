@@ -59,15 +59,14 @@ streamlit run app.py
 └── README.md                 # Project documentation
 ```
 
-## 🧠 Author
-**R. Yashwanth**  
-[GitHub](https://github.com/ryashwanth21)
 
-## 🙌 Contributors
-Thanks to the amazing collaborators who helped build this project:
 
-- [@karthikeya-1601](https://github.com/karthikeya-1601) – Karthikeya  
-- [LOHIT9177](https://github.com/LOHIT9177) – Lohit
+🚀 Team
+@karthikeya-1601
+
+@yashwanth
+
+@LOHIT9177
 
 ## 📬 Contact
 Feel free to raise an issue or contribute. Feedback is always welcome!
