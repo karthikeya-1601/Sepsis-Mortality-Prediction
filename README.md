@@ -61,7 +61,8 @@ streamlit run app.py
 
 
 
-🚀 Team
+🚀 Team (Mini Project)
+
 @karthikeya-1601
 
 @yashwanth
