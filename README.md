@@ -34,14 +34,7 @@ This project uses a **stacking classifier** that combines multiple base learners
 - Plotly
 - Pillow
 
-## 🔧 Setup Instructions
-Clone the repository and install dependencies:
 
-```bash
-git clone https://github.com/ryashwanth21/Sepsis-Mortality-Stacking-Classifier-Website.git
-cd Sepsis-Mortality-Stacking-Classifier-Website
-pip install -r requirements.txt
-```
 
 Run the app locally:
 
