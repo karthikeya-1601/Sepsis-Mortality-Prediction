@@ -54,13 +54,6 @@ streamlit run app.py
 
 
 
-🚀 Team (Mini Project)
-
-@karthikeya-1601
-
-@yashwanth
-
-@LOHIT9177
 
 ## 📬 Contact
 Feel free to raise an issue or contribute. Feedback is always welcome!
