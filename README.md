@@ -42,15 +42,7 @@ Run the app locally:
 streamlit run app.py
 ```
 
-## 📁 Project Structure
-```
-├── app.py                    # Main Streamlit app
-├── model/                    # Saved model files
-├── data/                     # Input datasets
-├── utils/                    # Helper functions
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
-```
+
 
 
 
